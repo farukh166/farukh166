@@ -6,7 +6,7 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
     <img src="https://github.com/farukh166/farukh166/blob/main/assets/DevOps.gif"  height="350" />
 </p>
 <p align="right">
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/CICD.gif"  height="350" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/CICD.gif"  height="250" />
 </p>
 <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
