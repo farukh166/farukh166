@@ -24,7 +24,7 @@ Hi, I am <b>Farukh Khan</b>, a <b>AWS Certified Cloud Practitioner</b>, passiona
   
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Logo_aws.gif"  height="75" />
   </a>
  </p>
 
