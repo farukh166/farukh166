@@ -4,7 +4,7 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
 ## 💻 Tech Stack
 <p float="left">
     <img src="https://github.com/farukh166/farukh166/blob/main/assets/DevOps.gif"  height="350" />
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/CICD.gif"  height="350" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/CICD.gif"  height="300" />
 </p>
 
 <p float="left">
