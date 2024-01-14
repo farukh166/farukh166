@@ -4,27 +4,36 @@ Hi, I am <b>Farukh Khan</b>, a <b>AWS Certified Cloud Practitioner</b>, passiona
 
 
 <p float="left">
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Logo_aws.gif"  height="75" />
+  </a>
+  
   <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/docker.gif"  height="80" /> 
   </a>
   
   <a href="https://www.djangoproject.com/" target="_blank" >
     <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
   </a>
-  
+
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/docker.gif"  height="80" /> 
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank" >
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Linux.gif"  height="80" /> 
+  </a>
+
+  <a href="https://github.com/" target="_blank" >
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/GitHub.gif"  height="80" /> 
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" >
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/MySQL.png"  height="80" /> 
+  </a>
+
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
- </p>
-  
-### DevOps
-  
- <p float="left">
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Logo_aws.gif"  height="75" />
   </a>
  </p>
 
