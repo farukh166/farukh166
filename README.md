@@ -4,10 +4,9 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
 ## 💻 Tech Stack
 <p align="left">
     <img src="https://github.com/farukh166/farukh166/blob/main/assets/DevOps.gif"  height="350" />
-</p>
-<p align="right">
     <img src="https://github.com/farukh166/farukh166/blob/main/assets/CICD.gif"  height="250" />
 </p>
+
 <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://github.com/farukh166/farukh166/blob/main/assets/Logo_aws.gif"  height="80" />
