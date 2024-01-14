@@ -2,9 +2,8 @@
 Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b>, a <b>AWS Certified Cloud Practitioner</b>, passionate about developing and deploying production-ready applications while building and working with teams of Software Developers,<br><br>Aspiring for a challenging career in <b>DevOps and Cloud</b> as to use my learned skills for best results. Adept in various DevOps tools & technologies, including AWS, Fluent in scripting languages such as Bash & Python, with a passion for automating manual processes.<br><br>I believe continuous learning and development to keep myself up-to-date and up-skilled is the solution to modern-day application development for customers.
 
 ## 💻 Tech Stack
-<p float="left">
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/DevOps.gif"  height="350" />
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/CICD.gif"  height="300" />
+<p align="center">
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/DevOps.gif"  height="450" />
 </p>
 
 <p float="left">
@@ -41,11 +40,15 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
   </a>
  </p>
 
+<p align="center">
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/CICD.gif"  height="400" />
+</p>
+
 ## 🌐 Socials:
 
 <p float="left">
   <a href="https://www.linkedin.com/in/farukh-khan-54051820b/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/LinkedIn.gif"  height="80" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/LinkedIn.gif"  height="100" />
   </a>
 </p>
 
