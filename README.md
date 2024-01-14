@@ -8,7 +8,7 @@ Hi, I am <b>Farukh Khan</b>, a <b>AWS Certified Cloud Practitioner</b>, passiona
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/docker.gif"  height="80" /> 
   </a>
   
   <a href="https://www.djangoproject.com/" target="_blank" >
