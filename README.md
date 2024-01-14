@@ -39,7 +39,9 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
   </a>
  </p>
 
-
+<p align="center">
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/CICD.gif"  height="350" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farukh-khan-54051820b) 
@@ -59,3 +61,7 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
 ---
 [![](https://visitcount.itsvg.in/api?id=farukh166&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 📫 How to reach me?
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/farukh-khan-54051820b/) 👨🏻‍💻
+ - Shoot Me an [Email](mailto:farukhk166@gmail.com) 💌
