@@ -2,46 +2,45 @@
 Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b>, a <b>AWS Certified Cloud Practitioner</b>, passionate about developing and deploying production-ready applications while building and working with teams of Software Developers,<br><br>Aspiring for a challenging career in <b>DevOps and Cloud</b> as to use my learned skills for best results. Adept in various DevOps tools & technologies, including AWS, Fluent in scripting languages such as Bash & Python, with a passion for automating manual processes.<br><br>I believe continuous learning and development to keep myself up-to-date and up-skilled is the solution to modern-day application development for customers.
 
 ## 💻 Tech Stack
-<p align="center">
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/DevOps.gif"  height="450" />
-</p>
 
 <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Logo_aws.gif"  height="80" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Logo_aws.gif" height="80" />
   </a>
   
   <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="80" />
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="80" />
   </a>
   
   <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
+    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" height="80" /> 
   </a>
 
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/docker.gif"  height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/docker.gif" height="80" /> 
   </a>
 
   <a href="https://www.linux.org/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Linux.gif"  height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Linux.gif" height="80" /> 
   </a>
 
   <a href="https://github.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/GitHub.gif"  height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/GitHub.gif" height="80" /> 
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/MySQL.png"  height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/MySQL.png" height="80" /> 
   </a>
 
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
   </a>
  </p>
+ 
+#
 
 <p align="center">
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/CICD.gif"  height="400" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/DevOps.gif"  height="450" />
 </p>
 
 ## 🌐 Socials:
