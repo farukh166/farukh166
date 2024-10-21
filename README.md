@@ -33,7 +33,11 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
   </a>
 
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/html-css-js.png" height="70" />
+  </a>
+
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/grafana.gif" height="80" /> 
   </a>
  </p>
  
