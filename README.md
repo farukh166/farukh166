@@ -97,6 +97,7 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/farukh-khan-54051820b/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:farukhk166@gmail.com) 💌
+ - Connect with me on [Whatsapp](tel:+917000518705) 📞
 
 
 <!--
