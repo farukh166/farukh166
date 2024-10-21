@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b>, a <b>AWS Certified Cloud Practitioner</b>, passionate about developing and deploying production-ready applications while building and working with teams of Software Developers,<br><br>Aspiring for a challenging career in <b>DevOps and Cloud</b> as to use my learned skills for best results. Adept in various DevOps tools & technologies, including AWS, Fluent in scripting languages such as Bash & Python, with a passion for automating manual processes.<br><br>I believe continuous learning and development to keep myself up-to-date and up-skilled is the solution to modern-day application development for customers.
+Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b>, a <b> Devops Engineer </b> and <b>AWS Certified Cloud Practitioner</b>, passionate about developing and deploying production-ready applications while building and working with teams of Software Developers,<br><br>Aspiring for a challenging career in <b>DevOps and Cloud</b> as to use my learned skills for best results. Adept in various DevOps tools & technologies, including AWS, Fluent in scripting languages such as Bash & Python, with a passion for automating manual processes.<br><br>I believe continuous learning and development to keep myself up-to-date and up-skilled is the solution to modern-day application development for customers.
 
 ## 💻 Tech Stack
 
@@ -97,7 +97,6 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/farukh-khan-54051820b/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:farukhk166@gmail.com) 💌
- - Connect with me on [Whatsapp](tel:+917000518705) 📞
 
 
 <!--
@@ -105,10 +104,10 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 -->
 
-<!--
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=farukh166&theme=radical&no-frame=true&no-bg=false&margin-w=4)
--->
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
