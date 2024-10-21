@@ -16,10 +16,6 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
     <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" height="80" /> 
   </a>
 
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/docker.gif" height="80" /> 
-  </a>
-
   <a href="https://www.linux.org/" target="_blank" >
     <img src="https://github.com/farukh166/farukh166/blob/main/assets/Linux.gif" height="80" /> 
   </a>
@@ -42,16 +38,20 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
       <img src="https://github.com/farukh166/farukh166/blob/main/assets/grafana.gif" height="80" /> 
   </a>
 
-  <a href="https://helm.sh/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/helm.gif" height="80" /> 
+  <a href="https://prometheus.io/" target="_blank" >
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/prometheus.gif" height="80" /> 
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/docker.gif" height="80" /> 
   </a>
 
   <a href="https://kubernetes.io/" target="_blank" >
       <img src="https://github.com/farukh166/farukh166/blob/main/assets/k8s.gif" height="80" /> 
   </a>
 
-  <a href="https://prometheus.io/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/prometheus.gif" height="80" /> 
+  <a href="https://helm.sh/" target="_blank" >
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/helm.gif" height="80" /> 
   </a>
 
   <a href="https://www.terraform.io/" target="_blank" >
@@ -74,6 +74,18 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
 <p float="left">
   <a href="https://www.linkedin.com/in/farukh-khan-54051820b/" target="_blank" >
     <img src="https://github.com/farukh166/farukh166/blob/main/assets/LinkedIn.gif"  height="100" />
+  </a>
+
+  <a href="https://hashnode.com/@Farukh166/" target="_blank" >
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/hashnode-icon.png"  height="100" />
+  </a>
+
+  <a href="https://medium.com/@farukhk166/" target="_blank" >
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/medium-icon.gif"  height="100" />
+  </a>
+
+  <a href="https://dev.to/farukh166/" target="_blank" >
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/dev-black.png"  height="100" />
   </a>
 </p>
 
