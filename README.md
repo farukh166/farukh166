@@ -33,14 +33,34 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
   </a>
 
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/html-css-js.png" height="70" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/html-css-js.png" height="80" />
   </a>
  </p>
 
- <p align="center">
-     <a href="https://grafana.com/" target="_blank" >
+ <p align="left"> 
+  <a href="https://grafana.com/" target="_blank" >
       <img src="https://github.com/farukh166/farukh166/blob/main/assets/grafana.gif" height="80" /> 
-     </a>
+  </a>
+
+  <a href="https://helm.sh/" target="_blank" >
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/helm.gif" height="80" /> 
+  </a>
+
+  <a href="https://kubernetes.io/" target="_blank" >
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/k8s.gif" height="80" /> 
+  </a>
+
+  <a href="https://prometheus.io/" target="_blank" >
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/prometheus.gif" height="80" /> 
+  </a>
+
+  <a href="https://www.terraform.io/" target="_blank" >
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/terraform.gif" height="80" /> 
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank" >
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/mongo.gif" height="80" /> 
+  </a>
  </p>
  
 #
