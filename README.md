@@ -1,3 +1,11 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=&center=true&vCenter=true&width=900&height=90&lines=Hi+There!+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%91%8B%F0%9F%8F%BB;I'm+Farukh+Khan!+%E2%9C%A8%F0%9F%92%BB;A+DevOps+%E2%99%BE%EF%B8%8F+and+DevSecOps+%F0%9F%9B%A1%EF%B8%8F+Engineer!" />
+</h1>
+
+<p align="center">
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Devops%20engineer%20make%20world%20with%20cloud.gif" />
+</p>
+
 # 💫 About Me:
 Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b>, a <b> Devops Engineer </b> and <b>AWS Certified Cloud Practitioner</b>, passionate about developing and deploying production-ready applications while building and working with teams of Software Developers,<br><br>Aspiring for a challenging career in <b>DevOps and Cloud</b> as to use my learned skills for best results. Adept in various DevOps tools & technologies, including AWS, Fluent in scripting languages such as Bash & Python, with a passion for automating manual processes.<br><br>I believe continuous learning and development to keep myself up-to-date and up-skilled is the solution to modern-day application development for customers.
 
