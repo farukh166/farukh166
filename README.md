@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Devops%20engineer%20make%20world%20with%20cloud.gif" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Banner.gif" />
 </p>
 
 # 💫 About Me:
