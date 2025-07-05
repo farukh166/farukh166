@@ -15,31 +15,31 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
 # 💻Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Logo_aws.gif" width="80" height="80" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Logo_aws.gif" width="100" height="80" />
   </a>
   
   <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" height="80" />
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="80" />
   </a>
   
   <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="80" height="80" /> 
+    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="100" height="80" /> 
   </a>
 
   <a href="https://www.linux.org/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Linux.gif" width="80" height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Linux.gif" width="100" height="80" /> 
   </a>
 
   <a href="https://github.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/GitHub.gif" width="80" height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/GitHub.gif" width="100" height="80" /> 
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/MySQL.png" width="80" height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/MySQL.png" width="100" height="80" /> 
   </a>
 
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/html-css-js.png" width="80" height="80" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/html-css-js.png" width="100" height="80" />
   </a>
  </p>
  
@@ -47,31 +47,31 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
  
  <p align="left"> 
   <a href="https://grafana.com/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/grafana.gif" width="80" height="80" /> 
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/grafana.gif" width="100" height="80" /> 
   </a>
 
   <a href="https://prometheus.io/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/prometheus.gif" width="80" height="80" /> 
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/prometheus.gif" width="100" height="80" /> 
   </a>
 
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/docker.gif" width="80" height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/docker.gif" width="100" height="80" /> 
   </a>
 
   <a href="https://kubernetes.io/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/k8s.gif" width="80" height="80" /> 
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/k8s.gif" width="100" height="80" /> 
   </a>
 
   <a href="https://helm.sh/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/helm.gif" width="80" height="80" /> 
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/helm.gif" width="100" height="80" /> 
   </a>
 
   <a href="https://www.terraform.io/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/terraform.gif" width="80" height="80" /> 
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/terraform.gif" width="100" height="80" /> 
   </a>
 
   <a href="https://www.mongodb.com/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/mongo.gif" width="80" height="80" /> 
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/mongo.gif" width="100" height="80" /> 
   </a>
  </p>
  
