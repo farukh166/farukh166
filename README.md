@@ -15,31 +15,31 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
 # 💻Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Logo_aws.gif" height="80" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Logo_aws.gif" width="120" height="80" />
   </a>
   
   <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="80" />
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="120" height="80" />
   </a>
   
   <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" height="80" /> 
+    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="120" height="80" /> 
   </a>
 
   <a href="https://www.linux.org/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Linux.gif" height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/Linux.gif" width="120" height="80" /> 
   </a>
 
   <a href="https://github.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/GitHub.gif" height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/GitHub.gif" width="120" height="80" /> 
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/MySQL.png" height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/MySQL.png" width="120" height="80" /> 
   </a>
 
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/html-css-js.png" height="80" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/html-css-js.png" width="120" height="80" />
   </a>
  </p>
  
@@ -47,38 +47,38 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
  
  <p align="left"> 
   <a href="https://grafana.com/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/grafana.gif" height="80" /> 
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/grafana.gif" width="120" height="80" /> 
   </a>
 
   <a href="https://prometheus.io/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/prometheus.gif" height="80" /> 
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/prometheus.gif" width="120" height="80" /> 
   </a>
 
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/docker.gif" height="80" /> 
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/docker.gif" width="120" height="80" /> 
   </a>
 
   <a href="https://kubernetes.io/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/k8s.gif" height="80" /> 
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/k8s.gif" width="120" height="80" /> 
   </a>
 
   <a href="https://helm.sh/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/helm.gif" height="80" /> 
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/helm.gif" width="120" height="80" /> 
   </a>
 
   <a href="https://www.terraform.io/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/terraform.gif" height="80" /> 
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/terraform.gif" width="120" height="80" /> 
   </a>
 
   <a href="https://www.mongodb.com/" target="_blank" >
-      <img src="https://github.com/farukh166/farukh166/blob/main/assets/mongo.gif" height="80" /> 
+      <img src="https://github.com/farukh166/farukh166/blob/main/assets/mongo.gif" width="120" height="80" /> 
   </a>
  </p>
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/DevOps.gif"  height="450" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/DevOps.gif" width="600" height="450" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -87,19 +87,19 @@ Hi, I am <b>[Farukh Khan](https://www.linkedin.com/in/farukh-khan-54051820b/)</b
 
 <p float="left">
   <a href="https://www.linkedin.com/in/farukh-khan-54051820b/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/LinkedIn.gif"  height="100" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/LinkedIn.gif" width="100" height="100" />
   </a>
 
   <a href="https://hashnode.com/@Farukh166/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/hashnode-icon.png"  height="100" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/hashnode-icon.png" width="100"  height="100" />
   </a>
 
   <a href="https://medium.com/@farukhk166/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/medium-icon.gif"  height="100" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/medium-icon.gif" width="100"  height="100" />
   </a>
 
   <a href="https://dev.to/farukh166/" target="_blank" >
-    <img src="https://github.com/farukh166/farukh166/blob/main/assets/dev-black.png"  height="100" />
+    <img src="https://github.com/farukh166/farukh166/blob/main/assets/dev-black.png" width="100"  height="100" />
   </a>
 </p>
 
